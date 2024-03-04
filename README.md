@@ -1,7 +1,9 @@
 Extensions:
 
   . APC Customize UI++
+  
   . Fluent Icons
+  
   . Min Theme
 
 Font: 
