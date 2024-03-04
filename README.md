@@ -1,13 +1,5 @@
-Extensions:
+Extensions:  APC Customize UI++, Fluent Icons, Min Theme
 
-  APC Customize UI++
-  
-  Fluent Icons
-  
-  Min Theme
-
-Font: 
-
-  JetBrains Mono (https://www.jetbrains.com/pt-br/lp/mono/)
+Font: JetBrains Mono (https://www.jetbrains.com/pt-br/lp/mono/)
 
   
